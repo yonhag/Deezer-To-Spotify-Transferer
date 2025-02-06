@@ -11,3 +11,6 @@ Steps to use:
 7. After it's done, go to your Spotify Desktop app, to the Favorite Tracks playlist and Ctrl A -> Right Click -> Like all songs.
    
 Now all your favorite songs from Deezer should be available on Spotify.
+
+*Note: If you're doing this for multiple account, you have to create the spotify project for each one of them (as far as I tested, at least), and update the code.
+* You will also need to delete the .cache file the spotipy creates, and browser cookies.
